@@ -1,0 +1,12 @@
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\bin\Debug\CalculadoraFinal.exe.config
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\bin\Debug\CalculadoraFinal.exe
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\bin\Debug\CalculadoraFinal.pdb
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.Form1.resources
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.Properties.Resources.resources
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.exe
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.pdb
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\eduar\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.csproj.CopyComplete
